@@ -42,7 +42,3 @@ In a real-world project, I would extend coverage with:
 - `data.py` – test data and constants
 - `conftest.py` – shared fixtures
 
----
-
-## 🗂 Project Structure
-

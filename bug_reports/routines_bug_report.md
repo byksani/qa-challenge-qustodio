@@ -4,7 +4,7 @@ of the Routines feature in the Qustodio web application (parent experience).
 
 ## BUG-01: Error message appears when routine name length is exactly 28 characters
 
-**Severity**: Medium
+**Severity**: Medium  
 **Priority**: Medium
 
 ### Description
